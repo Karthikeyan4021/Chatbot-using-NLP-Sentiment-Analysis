@@ -1,0 +1,3 @@
+input,sentiment,response
+I love this!,POSITIVE,I'm glad you love it!
+This is terrible,NEGATIVE,I'm sorry to hear that.
